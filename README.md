@@ -7,7 +7,9 @@ For run first install redis and genuplot
 
 Redis for calculate Fitness for plot and GnuPlot dor draw Plot Fitness:
 
-'sudo pacman -S redis gnuplot'
+`sudo pacman -S redis gnuplot`
+
+`python genetic.py`
 
 
 [instagram]
